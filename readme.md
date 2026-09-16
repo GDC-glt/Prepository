@@ -1,2 +1,3 @@
-Prima riga
-Seconda riga nuova
+*Prima riga
+*Seconda riga nuova
+*Terza riga
